@@ -1,0 +1,56 @@
+[
+  {
+    "username": "bereky",
+    "emoji": "😎",
+    "favJam": {
+      "artist": "ZHU",
+      "title": "Stormy Love",
+      "youtube": "https://www.youtube.com/watch?v=SVHq7vyzzvc"
+    }
+  },
+  {
+    "username": "felekekinfe",
+    "emoji": " ❤️",
+    "favJam": {
+      "artist": "The AMP Channel",
+      "title": "lofi beats to code",
+      "youtube": "https://www.youtube.com/watch?v=f02mOEt11OQ"
+    }
+  },
+  {
+    "username": "Kinfe123",
+    "emoji": "👻",
+    "favJam": {
+      "artist": "Chill Music Lab",
+      "title": "Beat for Farming and Hacking",
+      "youtube": "https://www.youtube.com/watch?v=_tUBCmGBO3A"
+    }
+  },
+  {
+    "username": "yeab-tilahun",
+    "emoji": "⚡️",
+    "favJam": {
+      "artist": "Hayalistic",
+      "title": "Calm Songs",
+      "youtube": "https://www.youtube.com/watch?v=f2r6euMysl0"
+    }
+  },
+  {
+    "username": "Ashermuzic",
+    "emoji": "❤️",
+    "favJam": {
+      "artist": "Morgin Madison & Ryan Lucian",
+      "title": "From The Start",
+      "youtube": "https://www.youtube.com/watch?v=Uf4cF09xMBE"
+    }
+  },
+  {
+    "username": "Atesfahun",
+    "emoji": "🐱‍👤",
+    "favJam": {
+      "artist": "Lofi Ghostie",
+      "title": "3 AM Coding Session",
+      "youtube": "https://www.youtube.com/watch?v=_ITiwPMUzho"
+    }
+  }
+]
