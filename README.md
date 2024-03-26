@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>🎶 FLOWLIST 🎶</h1>
+  <h1>🎶 Cod-Lyst 🎶</h1>
   <h2 >Masterpieces for the developers 'flow state'</h2>
 </div>
 
@@ -8,15 +8,9 @@
   # [Live Website](https://flowlist.vercel.app)
 </span>
 
-  <div align="center">
-    <img src="https://img.shields.io/badge/hacktoberfest-2023-blueviolet" alt="Hacktober Badge"/>
- <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
- <a href="https://github.com/bereky" ><img src="https://img.shields.io/badge/Contributions-welcome-violet.svg?style=flat&logo=git" alt="Contributions" /></a>
-</div>
-
 #
 
-# What is **Flowlist**? 😇
+# What is **Cod-Lyst**?
 
 A community curated playlist of songs for our coding session. All songs in the list are collected through github contribution. It's meant to encourage collaboration and open source contribution ❤️.
 
@@ -38,7 +32,7 @@ Click the "Fork" button at the top right of the repository to create a copy of y
 Clone the repository you forked to your local machine using the following command:
 
 ```
-git clone https://github.com/your-username/flowlist.git
+git clone https://github.com/your-username/Cod-Lyst.git
 ```
 
 Replace `your-username` with your GitHub username.
@@ -67,7 +61,7 @@ Replace the placeholder values with your details. You can add as many as 2 songs
 Create a new branch for your contribution:
 
 ```
-cd flowlist
+cd Cod-Lyst
 git checkout -b add-song
 ```
 
@@ -77,7 +71,7 @@ Save your changes and commit them:
 
 ```
 git add data.json
-git commit -m "Add my favorite jam to flowlist"
+git commit -m "Add my favorite jam to Cod-Lyst"
 
 ```
 
@@ -91,10 +85,10 @@ git push origin add-song
 
 ## Step 7: Make a Pull Request
 
-Visit your forked repository on GitHub. You will see a '**Compare & pull request**' button. Click it to create a pull request. Then your favorite jam will be added to the flowlist!
+Visit your forked repository on GitHub. You will see a '**Compare & pull request**' button. Click it to create a pull request. Then your favorite jam will be added to the Cod-Lyst!
 
 #
 
-# 🎉🥰 Thanks for your contribution 🥰🎉
+# 🎉 Thanks for your contribution 🎉
 
 ## Happy coding and happy jammin! 🎧
