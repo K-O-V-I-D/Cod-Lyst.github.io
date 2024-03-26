@@ -5,7 +5,7 @@
 
 <span align="center">
   
-  # [Live Website](https://flowlist.vercel.app)
+  # [Live Website](https://k-o-v-i-d.github.io/Cod-Lyst.github.io/)
 </span>
 
 #
