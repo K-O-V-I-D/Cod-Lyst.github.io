@@ -18,7 +18,7 @@ A community curated playlist of songs for our coding session. All songs in the l
 - If you have a favorite jam that gets you in the zone and want to share it with fellow developers,
 - If you ❤️ to contribute to opensource, this repo is for you.
 
-##
+#
 
 # How to Contribute 🤗
 
@@ -86,7 +86,7 @@ git push origin add-song
 
 Visit your forked repository on GitHub. You will see a '**Compare & pull request**' button. Click it to create a pull request. Then your favorite jam will be added to the Cod-Lyst!
 
-##
+#
 
 # Thanks for your contribution
 
