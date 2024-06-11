@@ -18,7 +18,6 @@ A community curated playlist of songs for our coding session. All songs in the l
 - If you have a favorite jam that gets you in the zone and want to share it with fellow developers,
 - If you ❤️ to contribute to opensource, this repo is for you.
 
-#!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#########################33
 
 # How to Contribute 🤗
 
