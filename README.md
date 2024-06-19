@@ -13,7 +13,9 @@
 # What is **Cod-Lyst**?
 
 A community curated playlist of songs for our coding session. All songs in the list are collected through github contribution. It's meant to encourage collaboration and open source contribution ❤️.
-##
+
+
+###
 
 ### Who can contribute?
 
