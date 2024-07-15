@@ -15,8 +15,6 @@
 A community curated playlist of songs for our coding session. All songs in the list are collected through github contribution. It's meant to encourage collaboration and open source contribution ❤️.
 
 
-###!@#%$@#%%%%%%%%%%%%%%%$@#!@@@@@@@@@@@@@@@#@$5364
-
 ### Who can contribute?
 
 - If you have a favorite jam that gets you in the zone and want to share it with fellow developers,
